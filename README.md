@@ -12,4 +12,4 @@ This repository will hold assignments.
 * Cooking  
 ## Recipes I Recommand
 * [Black Forest Flouress Brownie Cookies- The Loppy Whisk](https://theloopywhisk.com/2021/12/30/black-forest-flourless-brownie-cookies/)
-*  These are my favorite cookies to make.
+  * These are my favorite cookies to make.
