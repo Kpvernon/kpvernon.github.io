@@ -8,4 +8,4 @@
 * Printmaking
 * Film Photography
 * Reading
-*  Fantasy/Scifi
+  * Fantasy/Scifi
