@@ -11,4 +11,4 @@ This repository will hold assignments.
   * Fantasy/Scifi
 * Cooking  
 ## Recipes I Recommand
-* [Black Forest Flouress Brownie Cookies](https://theloopywhisk.com/2021/12/30/black-forest-flourless-brownie-cookies/)
+* [Black Forest Flouress Brownie Cookies- The Loppy Whisk](https://theloopywhisk.com/2021/12/30/black-forest-flourless-brownie-cookies/)
