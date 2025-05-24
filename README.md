@@ -10,6 +10,9 @@ This repository will hold assignments.
 * Reading
   * Fantasy and Sci-fi
 * Cooking  
+* Cats and dogs
+  * Colby-Jack ![Colby-Jack](https://i.imgur.com/rvDPXq1.jpeg)
+  * Fry ![Fry](blob:https://imgur.com/d1b93f4f-0aa7-41bb-8dad-fff2a8594893)
 ## Recipes I Recommand
 Cooking is a hobby of mine. To me food is an important element of our everyday lives that can be therapudic and exciting. My husband was diagnosed with celiac disease in 2019. Going out can be risky so we try to cook at home as much as possible. This has also forced me to branch out and try new cuisines so we aren't stuck eating the same few recipes. I love trying to cook food from other cultures as I one day hope to travel all around the world.
 * [Quesabirria Tacos- Sunday's Supper](https://sundaysuppermovement.com/quesabirria-tacos/)  
