@@ -14,7 +14,7 @@ This repository will hold assignments.
   * My Pets
     * Colby-Jack ![Colby-Jack](https://i.imgur.com/rvDPXq1.jpeg)
     * Fry ![Fry](https://i.imgur.com/6GyqVlg.jpeg)
-## Recipes I Recommand
+## Recipes I Recommend
 Cooking is a hobby of mine. To me food is an important element of our everyday lives that can be therapudic and exciting. My husband was diagnosed with celiac disease in 2019. Going out can be risky so we try to cook at home as much as possible. This has also forced me to branch out and try new cuisines so we aren't stuck eating the same few recipes. I love trying to cook food from other cultures as I one day hope to travel all around the world.
 * [Quesabirria Tacos- Sunday's Supper](https://sundaysuppermovement.com/quesabirria-tacos/)  
   * Quesabirria tacos are one of my all time favorite meals. The slow cooked beef melts and your mouth and the broth adds so much flavor. 
