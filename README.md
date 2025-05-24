@@ -11,7 +11,7 @@ This repository will hold assignments.
   * Fantasy and Sci-fi
 * Cooking  
 * Cats and dogs
-  * My Cats!
+  * My Pets
     * Colby-Jack ![Colby-Jack](https://i.imgur.com/rvDPXq1.jpeg)
     * Fry ![Fry](https://i.imgur.com/6GyqVlg.jpeg)
 ## Recipes I Recommand
