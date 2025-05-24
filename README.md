@@ -8,7 +8,7 @@ This repository will hold assignments.
 * Printmaking
 * Film Photography
 * Reading
-  * Fantasy/Scifi
+  * Fantasy and Scifi
 * Cooking  
 ## Recipes I Recommand
 Cooking is a hobby of mine. To me food is an important element of our everyday lives that can be therapudic and exciting. My husband was diagnosed with celiac disease in 2019. Going out can be risky so we try to cook at home as much as possible. This has also forced me to branch out and try new cuisines so we aren't stuck eating the same few recipes. I love trying to cook food brom other cultures as I one day hope to travel all a round the world.
