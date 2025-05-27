@@ -139,6 +139,6 @@ flowchart TD;
 
 ```
 
-#Choose Your Own Adventure
+# Choose Your Own Adventure
   
   For my project I have decided to create a choose your own adventure. This was just a silly story to see if the player could survive in a haunted house. I used mermaid to create a flow chart since that would help visualize the choices and paths you could take easily. Every type of entity has a different shape. Start is a circle, descriptions are boxes, choices are rhombus's, death are hexagon's, and survival is a flag. I even tried to use color to help from getting confused. Each level of the house are a different color 2nd floor is purple, 1st floor is blue and basement is yelow. The start is also white, the first desisions are teal and survival is green. I tried to use the style classes to minimize the code instead of styling each individual node. 
