@@ -8,7 +8,7 @@ flowchart TD;
     B-->G[\Go downstairs. The darkest places always have the best secrets.\]
     L2-->W[ You leave the house!]
     W-->D
-    A-->C[\REFUSE! Loose truth or dare and go to sleep.\]
+    A-->C[\REFUSE! Lose truth or dare and go to sleep.\]
     C-->D>YOU SURVIVE]
     
 
@@ -17,30 +17,30 @@ flowchart TD;
     H-->V[\Go back down the stairs.\]
     V-->B
     H-->I[\Reach for the blue door.\]
-    I-->K[You see a fractured mirrior with what appears to be blood dripping down the cracks.]
+    I-->K[You see a fractured mirror with what appears to be blood dripping down the cracks.]
     K-->Y[\Slowly back out the room\]
     Y-->H
     K-->L[\Convince yourself it is ketchup and go check it out.\]
     L-->M[You get an intrusive thought to play Bloody Mary.]
     M-->N[\Play.\]
     N-->P[''bloody mary <br>Bloody Mary <br> BLOODY MARY'']
-    P-->Q[Bloody Mary slowly fades into the mirrior. The fractures spliting her. Cauing the illusion of many haunted eyes staring back. She opens her mouth to talk.]
+    P-->Q[Bloody Mary slowly fades into the mirror. The fractures spliting her. Causing the illusion of many haunted eyes staring back. She opens her mouth to talk.]
     Q-->R[\Run Out!\]
     R-->H
     Q-->S[\Listen.\]
-    S-->T[Bloody Mary laughs. You are traped in her trace as she points and laughs at you. Mocking you for your insicurities.]
-    T-->U{{You died by Visious Mockery.}}
+    S-->T[Bloody Mary laughs. You are trapped in her trance as she points and laughs at you. Mocking you for your insecurities.]
+    T-->U{{You died by Vicious Mockery.}}
     M-->O[\Don't play.\]
     O-->Y
 
     H-->J[\Open the red door. And enter.\]
-    J-->Z[Clothes are sprawed out all over the bed. You look into the corner and see a reading nook with a comfortable but dusy rocking chair.]
+    J-->Z[Clothes are sprawled out all over the bed. You look into the corner and see a reading nook with a comfortable but dusty rocking chair.]
     Z-->A1[\Fold the laundry. "A messy room leads to a messy mind" <br> Mother use to say.\]
     A1-->D1[Almost done! But you realize one sock is missing.]
     D1-->E1[\Look for the missing sock! You will go crazy if you don't.\]
     E1-->G1[Your compulsion to find the missing sock drives you to insanity as you spend the rest of your life searching endlessly.]
     G1-->H1{{Your OCD has led to your demise.}}
-    D1-->F1[\Youv'e done enough! It is someone elses problem now.\]
+    D1-->F1[\You've done enough! It is someone elses problem now.\]
     F1-->I1[You take a look around the room again.]
     I1-->Z
     Z-->B1[\Rest in the rocking chair. Those were a lot of steep stairs!\]
@@ -57,7 +57,7 @@ flowchart TD;
     N1-->O1[\Grab a cookie!\]
     O1-->Q1[Oh no the double chocolate chunk has gotten stuck in your throat!]
     Q1-->R1[\Reach for a glass to get water!\]
-    R1-->T1[Due to the houses many years of neiglect the water filter has become disgusting. The water pours out brown but your desperation from choking blinds you from thoughts of sanitation. The water taste gross but it gets the chunk down.]
+    R1-->T1[Due to the houses many years of neglect the water filter has become disgusting. The water pours out brown but your desperation from choking blinds you from thoughts of sanitation. The water taste gross but it gets the chunk down.]
     T1-->U1[You leave the house with a stomach ache. You find out days later you have an infection. You are admitted to the hospital.]
     U1-->V1{{You die of dysentery}}
     Q1-->S1[\Do the heimlich on yourself using a chair!\]
@@ -75,7 +75,7 @@ flowchart TD;
     Y1-->E2[\Get closer to read the note.\]
     E2-->H2[Upon closer examination the paper is actually a business card. It reads 'Ron's Ruin Realty'. Just then the skull 'Ron' says ''Hello. This house is to die for. Want to buy it?'']
     H2-->I2[\A fixer upper could be fun. Buy it!\]
-    I2-->K2[Congratuations! This house was a diamond in the rough. You went on to fix it up into your dream home!]
+    I2-->K2[Congratulations! This house was a diamond in the rough. You went on to fix it up into your dream home!]
     K2-->D
     H2-->J2[\This isn't the nicest neighborhood. Decline the offer.\]
     J2-->M2[Ron ''the Never Resting Realtor'' continues to try and sell you on the house.]
@@ -94,13 +94,13 @@ flowchart TD;
     R2-->B
     Q2-->S2[\Venture forth.\]
     S2-->T2[One of the first boxes you find is a Costco size pack of toilet paper.]
-    T2-->U2[\Leave it. You're in a basemnet. Not a bathroom. You don't need that right now.\]
+    T2-->U2[\Leave it. You're in a basement. Not a bathroom. You don't need that right now.\]
     U2-->W2[\Go left\]
-    W2-->Y2[\You end up geting lost within the maze. You search and search for the exit but to no avail.\]
+    W2-->Y2[\You end up getting lost within the maze. You search and search for the exit but to no avail.\]
     Y2-->Z2{{You died to bad navigation}}
     U2-->X2[\Go right\]
-    X2-->A3[You stumble upon the family heirlooms where you find a box of jewlrey you guess to be worth a lot of money!]
-    A3-->B3[It takes you many hours to find your way out with the jewlrey. You take the jewlrey to get appraised and become a multi-millionaire. You end up spending your money traveling round the world.]
+    X2-->A3[You stumble upon the family heirlooms where you find a box of jewelry you guess to be worth a lot of money!]
+    A3-->B3[It takes you many hours to find your way out with the jewelry. You take the jewelry to get appraised and become a multi-millionaire. You end up spending your money traveling round the world.]
     B3-->D
     T2-->V2[\Take it. Unravel some as you go.\]
     V2-->C3[\Go left\]
@@ -141,4 +141,4 @@ flowchart TD;
 
 # Choose Your Own Adventure
   
-  For my project I have decided to create a choose your own adventure. This was just a silly story to see if the player could survive in a haunted house. I used mermaid to create a flow chart since that would help visualize the choices and paths you could take easily. Every type of entity has a different shape. Start is a circle, descriptions are boxes, choices are rhombus's, death are hexagon's, and survival is a flag. I even tried to use color to help from getting confused. Each level of the house are a different color 2nd floor is purple, 1st floor is blue and basement is yelow. The start is also white, the first desisions are teal and survival is green. I tried to use the style classes to minimize the code instead of styling each individual node. 
+  For my project I have decided to create a choose your own adventure. This was just a silly story to see if the player could survive in a haunted house. I used mermaid to create a flow chart since that would help visualize the choices and paths you could take easily. Every type of entity has a different shape. Start is a circle, descriptions are boxes, choices are rhombuses, death are hexagons, and survival is a flag. I even tried to use color to help from getting confused. Each level of the house are a different color second floor is purple, first floor is blue and basement is yellow. The start is also white, the first decisions are teal and survival is green. I tried to use the style classes to minimize the code instead of styling each individual node. 
