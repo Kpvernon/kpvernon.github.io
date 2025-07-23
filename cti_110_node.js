@@ -23,7 +23,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 router.get('/', function(req, res){
     // It just returns a file to their browser 
     // from the same directory it's in, called gradebook.html
-    res.sendFile(path.join(__dirname, 'gradebook.html'));
+    res.sendFile(path.join(__dirname, 'KristenVernon_gradebook.html'));
 });
 
 app.use("/", router);
@@ -41,7 +41,7 @@ router.get('/api/grades',function(req, res){
             {
                 console.error(err);
             }
-            
+            console.log(result, "here");
             result.rows.forEach( 
                     function(row){
                         console.log(`Student Name: ${row.first_name} ${row.last_name}`);
